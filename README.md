@@ -1,5 +1,6 @@
-# BananaPi-M3-Archlinux-4.18rc3
-Image for BananaPi-M3 Archlinux kernel-4.18-rc3 u-boot-2018.01
+# BananaPi-M3-Archlinux-4.18.1-1-ARCH
+
+Image for BananaPi-M3 Archlinux Kernel: 4.18.1-1-ARCH U-Boot: 2018.09-rc1
 
 Image:
 
