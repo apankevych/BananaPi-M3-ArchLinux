@@ -8,6 +8,8 @@ Image for BananaPi-M3 Archlinux Kernel: 4.18.1-1-ARCH U-Boot: 2018.09-rc1
 * Wifi works
 * HDMI works
 * LCD need to be checked
+* GPIO works(WiringPi)
+* BPI tools included
 * I2C enabled(In TDB file)
 
 Clean CLI only.
