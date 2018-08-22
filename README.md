@@ -16,4 +16,4 @@ Clean CLI only. System is upgraded by 08.19.2018.
 
 Download Image:
 
-https://drive.google.com/file/d/1ia3JSmHH8ksia4e8doalUGSBHnytOgx4/view?usp=sharing
+https://drive.google.com/open?id=1wATkI9v5aWRElMSGDbfZy8jeT4M3toR6
