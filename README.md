@@ -4,6 +4,7 @@ Image for BananaPi-M3 Archlinux Kernel: 4.18.1-1-ARCH U-Boot: 2018.09-rc1
 
 * U-Boot: 2018.09-rc1
 * Kernel: 4.18.1-1-ARCH
+* SMP works
 * Ethernet works
 * Wifi works
 * HDMI works
