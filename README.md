@@ -7,12 +7,22 @@ Latest image:
  * SMP works
  * Ethernet works (Limited to 100Mbps. 1Gbps is unstable ~50% of loss)
  * Wifi works
- * HDMI (Needs to be checked)
+ * HDMI 
  * LCD (Needs to be checked)
  * GPIO works(WiringPi)
  * BPI tools included
  * I2C enabled(In TDB file)
- * Onboard blue led is up during system booting
+ * Onboard blue led works(activity)
+
+Installation(Change /dev/mmcblk1 to proper device name):
+
+    # gunzip -c ./backup.img.gz | dd of=/dev/mmcblk1 
+    # fsck.ext4 -v /dev/mmcblk1p1
+    
+Can be installed to sd card and emmc.
 
 Clean CLI only. System is upgraded by 11.16.2018. root/root
-https://drive.google.com/open?id=1V5k9D0BojF8mlKay_HLrgblOJ_kH4piA
+
+Download link:
+
+https://drive.google.com/open?id=12MGt_BK_fH9PhAQc6z_GrSRRGGYK_Ppb
