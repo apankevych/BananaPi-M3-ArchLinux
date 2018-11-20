@@ -7,7 +7,7 @@ Latest image:
  * SMP works
  * Ethernet works (Limited to 100Mbps. 1Gbps is unstable ~50% of loss)
  * Wifi works
- * HDMI 
+ * HDMI works
  * LCD (Needs to be checked)
  * GPIO works(WiringPi)
  * BPI tools included
@@ -16,7 +16,7 @@ Latest image:
 
 Installation(Change /dev/mmcblk1 to proper device name):
 
-    # gunzip -c ./backup.img.gz | dd of=/dev/mmcblk1 
+    # gunzip -c ./ArchLinuxARM-BPI-M3-11-20-2018.img.gz | dd of=/dev/mmcblk1 
     # fsck.ext4 -v /dev/mmcblk1p1
     
 Can be installed to sd card and emmc.
